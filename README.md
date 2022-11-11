@@ -1,5 +1,5 @@
 # External-storage-permission-python
-how to request manage_external_ permission in apps made with kivy and python
+how to request manage_external_ storage permission in apps made with kivy and python
 
 #In buildozer.spec file add:
 
